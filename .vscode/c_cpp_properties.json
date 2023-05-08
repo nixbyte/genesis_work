@@ -6,10 +6,8 @@
                 "${env:GDK}/inc",
                 "${env:GDK}/res",
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/res",
                 "C:/Program Files/msys64/mingw64/include/c++/12.1.0",
-                "C:/Program Files/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32",
-                "${workspaceFolder}/res"
+                "C:/Program Files/msys64/mingw64/include/c++/12.1.0/x86_64-w64-mingw32"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
